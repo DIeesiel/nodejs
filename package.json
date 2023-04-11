@@ -1,22 +1,22 @@
 {
-  "name": "nodejs",
-  "version": "1.0.0",
-  "description": "My first App NodeJs",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DIeesiel/nodejs.git"
-  },
-  "author": "Mateus da Rosa Elias",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/DIeesiel/nodejs/issues"
-  },
-  "homepage": "https://github.com/DIeesiel/nodejs#readme",
-  "dependencies": {
-    "nodemon": "^2.0.22"
+    "name": "nodejs",
+    "version": "1.0.0",
+    "description": "My first App NodeJs",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/DIeesiel/nodejs.git"
+    },
+    "author": "Mateus da Rosa Elias",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/DIeesiel/nodejs/issues"
+    },
+    "homepage": "https://github.com/DIeesiel/nodejs#readme",
+    "dependencies": {
+      "nodemon": "^2.0.22"
   }
 }
