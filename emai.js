@@ -4,14 +4,14 @@ var transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
     user: 'mateuselias4048@gmail.com',
-    pass: 'yourpassword'
+    pass: 'acvhcmezpvhfdqpx'
   }
 });
 
 var mailOptions = {
   from: 'mateuselias4048@gmail.com',
-  to: 'liberdade.estudantil.gremio@gmail.com',
-  subject: 'Sending Email using Node.js',
+  to: 'luisfiabani@gmail.com',
+  subject: 'Fala Amigo',
   text: 'Firmeza véi!'
 };
 
